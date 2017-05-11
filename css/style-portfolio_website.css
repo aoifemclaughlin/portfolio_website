@@ -96,15 +96,15 @@ h1,h2 {text-align: center;   font-family:'sacramento', cursive;
 }
 
 .infographic a {
-    color: black; 
+    color: #444; 
     text-decoration: none;}
 
 .infographic a:hover {
-    color: whitesmoke;
+    color: #FDEBEB;
 }
 
 .branding {
-    background-image: url(../images/branding-image.png);
+    background-image: url(../images/brand-chantelle.png);
     align-content: center;
     text-align: left;
    color: black;
@@ -114,11 +114,11 @@ h1,h2 {text-align: center;   font-family:'sacramento', cursive;
 }
 
 .branding a {
-    color: black; 
+    color: #444; 
     text-decoration: none;}
 
 .branding a:hover {
-    color: whitesmoke;
+    color: #FFA8A8;
 }
 
 .travel-app {
@@ -131,11 +131,11 @@ h1,h2 {text-align: center;   font-family:'sacramento', cursive;
 }
 
 .travel-app a {
-    color: black; 
+    color: #444; 
     text-decoration: none;}
 
 .travel-app a:hover {
-    color: whitesmoke;
+    color: #FFA8A8;
 }
 
 
